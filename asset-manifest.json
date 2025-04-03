@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-concepts/static/css/main.e6c13ad2.css",
+    "main.js": "/ai-concepts/static/js/main.aa82c08e.js",
+    "static/js/453.305c9dd3.chunk.js": "/ai-concepts/static/js/453.305c9dd3.chunk.js",
+    "index.html": "/ai-concepts/index.html",
+    "main.e6c13ad2.css.map": "/ai-concepts/static/css/main.e6c13ad2.css.map",
+    "main.aa82c08e.js.map": "/ai-concepts/static/js/main.aa82c08e.js.map",
+    "453.305c9dd3.chunk.js.map": "/ai-concepts/static/js/453.305c9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aa82c08e.js"
+  ]
+}
